@@ -355,19 +355,32 @@ body{
 #alpha{
     height: 30px;
     width: 30px;
-    margin-left: 10px;
+    margin-left: 0;
 
 }
 
 #beta{
     height: 20px;
     width: 20px;
+    margin-bottom: 5px;
 }
 
 #gamma{
     height: 42px;
     width: 42px;
-    margin-left: 170px;
+    margin-left: 240px;
+}
+
+#one{
+    height: 30px;
+    width: 30px;
+    margin-left: 37px;
+}
+
+#two{
+    height: 42px;
+    width: 42px;
+    margin-left: 150px;
 }
   
   
